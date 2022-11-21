@@ -1,0 +1,4 @@
+# Create Gemfile and add below, type bundle install --path .bundle to install RSpec
+source "https://rubygems.org"
+
+gem "rspec"
